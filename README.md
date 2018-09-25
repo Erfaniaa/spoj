@@ -1,4 +1,4 @@
-# SPOJ accepted solutions
+# SPOJ Accepted Solutions
 > My accepted solutions in Sphere Online Judge ([www.spoj.com](www.spoj.com))
 
 My source codes are programmed with C++.
